@@ -22,7 +22,7 @@
 
 | | |
 |---|---|
-| 🔭 **Currently Working On** | Agentic Text-to-HogQL Execution Loops & Autonomous Vetting Agents (ProNexus) |
+| 🔭 **Currently Working On** | Distributed Technographic Discovery Engines & Automated Mobile Binary Static Analysis Pipelines |
 | 🌱 **Currently Learning** | Advanced LLM Orchestration (CrewAI, LangGraph) & GitHub MCP Server integration |
 | 👯 **Looking to Collaborate** | Open-source Multi-Agent systems, Kaggle challenges, & scaling Nexus Forge Digital |
 | 🤝 **Seeking Help With** | Advanced MLOps, scaling AI deployments with Docker & Kubernetes |
