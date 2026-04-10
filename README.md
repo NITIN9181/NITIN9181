@@ -4,7 +4,7 @@
 
 ### ML Engineer • Data Scientist • Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B565F7&center=true&vCenter=true&random=false&width=600&lines=Building+end-to-end+ML+Pipelines+%F0%9F%94%A7;Healthcare+AI+%7C+NLP+%7C+Generative+AI+%F0%9F%A7%AC;LeetCode+Knight+%E2%9A%94%EF%B8%8F+Top+2.9%25+Globally;400%2B+DSA+Problems+Solved+%F0%9F%92%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B565F7&center=true&vCenter=true&random=false&width=600&lines=Building+end-to-end+ML+Pipelines+%F0%9F%94%A7;Healthcare+AI+%7C+NLP+%7C+Generative+AI+%F0%9F%A7%AC;LeetCode+Knight+%E2%9A%94%EF%B8%8F+Top+2.9%25+Globally;500%2B+DSA+Problems+Solved+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 <p>
   <a href="https://linkedin.com/in/nitinsaviobada"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,16 +18,16 @@
 
 ## 🧠 About Me
 
-🎓 **Mathematics & Computing Graduate** — I build end-to-end Machine Learning pipelines and data-driven web applications.
+🎓 **Mathematics & Computing Graduate | Data Scientist & AI Developer** — I build end-to-end Machine Learning pipelines, autonomous multi-agent systems, and data-driven web applications.
 
 | | |
 |---|---|
-| 🔭 **Currently Working On** | Clinical trial risk prediction engines using **BioLinkBERT** |
-| 🌱 **Currently Learning** | Generative AI, LLMs, LangChain & RAG |
-| 👯 **Looking to Collaborate** | Open-source ML, NLP apps & data viz dashboards |
-| 🤝 **Seeking Help With** | Advanced MLOps, scaling with Docker & Kubernetes |
-| 💬 **Ask Me About** | Python, DSA, Mathematics & Predictive Modeling |
-| ⚡ **Fun Fact** | LeetCode Knight ⚔️ — Top **2.9%** globally, **400+** problems solved |
+| 🔭 **Currently Working On** | Agentic Text-to-HogQL Execution Loops & Autonomous Vetting Agents (ProNexus) |
+| 🌱 **Currently Learning** | Advanced LLM Orchestration (CrewAI, LangGraph) & GitHub MCP Server integration |
+| 👯 **Looking to Collaborate** | Open-source Multi-Agent systems, Kaggle challenges, & scaling Nexus Forge Digital |
+| 🤝 **Seeking Help With** | Advanced MLOps, scaling AI deployments with Docker & Kubernetes |
+| 💬 **Ask Me About** | Python, Predictive Modeling, FastAPI, Streamlit, & DSA |
+| ⚡ **Fun Fact** | LeetCode Knight ⚔️ — Top **2.9%** globally (Rating 1971), **500+** problems solved |
 
 ---
 
