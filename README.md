@@ -93,4 +93,4 @@ invariants are non-negotiable:
 
 ![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NITIN9181&show_icons=true&hide_border=true&hide=prs,issues&card_width=450)
 
-📫 **[LinkedIn]([FILL: LinkedIn URL])** · open to AI-native finance/accounting roles.
+📫 **[LinkedIn](https://www.linkedin.com/in/nitinsaviobada/)** · open to AI-native finance/accounting roles.
